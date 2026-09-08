@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Debasish Kumar</h1>
+<h1 align="center">Hi, I'm Debasish Kumar 👋</h1>
 <h3 align="center">B.Tech CSE | Data Analyst • AI/ML Engineer • Backend Developer</h3>
 
 <p align="center">
@@ -13,18 +13,23 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-I'm a final-year CS student who works **end-to-end with data** — from writing SQL and building ETL pipelines, to training ML models, to shipping the FastAPI/React apps that put them in front of users. I like projects that go beyond notebooks: deployed APIs, real dashboards, and systems someone could actually use.
+I'm a final-year Computer Science student who works with data end-to-end — from writing SQL and building ETL pipelines, to training ML models, to shipping the FastAPI/React applications that put those models in front of users.
 
-- 🔭 Currently building **BrewCo CRM** (full-stack, +ML churn prediction) and **SentinelML** (fraud detection & explainability)
-- 🌱 Sharpening **Advanced SQL, Data Warehousing, Deep Learning & NLP**
-- 💬 Ask me about **SQL, Data Pipelines, FastAPI, or Applied ML**
-- ⚡ Fun fact: I usually build the ML model *and* the API *and* the dashboard for my own projects
+**What I do**
+- Build full-stack, production-shaped systems — not just notebooks: deployed APIs, real dashboards, working demos
+- Work across the stack: SQL/ETL → model training & evaluation → backend API → frontend/dashboard
+- Focus on explainability and correctness — e.g. auditing an AI-generated SQL layer for real security bypasses, not just accuracy metrics
+
+**Currently**
+- 🔭 Building **BrewCo CRM** (full-stack CRM, adding an ML churn-prediction layer) and extending **SentinelML** (fraud detection & explainability)
+- 🌱 Deepening **Advanced SQL, Data Warehousing, Deep Learning & NLP**
+- 💬 Happy to talk about **SQL, data pipelines, FastAPI, or applied ML**
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Data & Analytics**
 <p>
@@ -57,18 +62,10 @@ I'm a final-year CS student who works **end-to-end with data** — from writing 
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-**☕ [BrewCo CRM](https://github.com/Debasish65368/brewco-crm)**
-Full-stack CRM for a coffee brand — React + FastAPI + PostgreSQL, with AI-driven customer segmentation, campaign management, and a churn-prediction model. Found & patched 2 real PII-leakage bypasses in the AI-generated SQL layer.
-`React` `FastAPI` `PostgreSQL` `Clerk` `Groq API`
-🔗 [Live Demo](https://brewco-crm-pi.vercel.app)
-
-</td>
 <td width="50%" valign="top">
 
 **🤖 [SentinelML](https://github.com/Debasish65368/sentinelml)**
@@ -77,13 +74,21 @@ Fraud detection & explainability system on 284K+ transactions — tuned XGBoost 
 🔗 [Live Demo](https://sentinelml-fraud-detection.streamlit.app)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **⚽ [Football Analytics Warehouse](https://github.com/Debasish65368/Football-Analytics-Warehouse)**
 ETL pipeline transforming 230K+ matches (2000–2025) into a Dockerized PostgreSQL star schema, powering a 12-view analytical layer and a 4-page Power BI dashboard.
 `Python` `PostgreSQL` `Docker` `Power BI` `ETL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**☕ [BrewCo CRM](https://github.com/Debasish65368/brewco-crm)**
+Full-stack CRM for a coffee brand — React + FastAPI + PostgreSQL, with AI-driven customer segmentation, campaign management, and a churn-prediction model. Found & patched 2 real PII-leakage bypasses in the AI-generated SQL layer.
+`React` `FastAPI` `PostgreSQL` `Clerk` `Groq API`
+🔗 [Live Demo](https://brewco-crm-pi.vercel.app)
 
 </td>
 <td width="50%" valign="top">
@@ -99,22 +104,22 @@ NLP emotion classifier using frozen MiniLM embeddings + BiGRU, reaching 86% test
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Debasish65368&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debasish65368&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Debasish65368&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debasish65368&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Debasish65368&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Debasish65368&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🤝 Let's Connect
+### Let's Connect
 
-I'm actively looking for opportunities in **Data Analytics, Data Engineering, and AI/ML Engineering**. Always open to discussing projects, internships, and collaborations.
+Actively looking for opportunities in **Data Analytics, Data Engineering, and AI/ML Engineering** — open to discussing projects, internships, and collaborations.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/debasishk4/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
